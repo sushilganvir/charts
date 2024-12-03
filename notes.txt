@@ -1,0 +1,8 @@
+scales
+
+a. linear scale
+1. while drawing linear scale , domain represents the amount of data present and range is area where on which data is populated
+for example : domain is [0,100] and range is [0,200] , if we pass scale value as 50 it will draw at the center.
+
+
+b. 
